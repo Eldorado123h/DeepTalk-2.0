@@ -13,3 +13,5 @@ Seguiré intentando crear un idioma más óptimo sin pérdida de la esencia del 
 Saludos a todos.
 
 Saul Fernandez, Guarenas, Venezuela
+
+Acepto donaciones para poder continuar creando métodos mas optimizados: https://app.binance.com/qr/dplk298ec7474db64b41ace9b734894f1f4a
