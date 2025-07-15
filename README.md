@@ -158,7 +158,7 @@ Juntos podemos construir un puente más eficiente entre la mente humana y la int
 Licencia
 Este proyecto se distribuye bajo la Licencia MIT. Eres libre de usarlo, modificarlo y distribuirlo.
 
-DeepTalk 2.0 es totalmente gratis, sin embargo acepto donaciones para seguir subiendo cosas increibles, mis recursos son muy limitado:
+DeepTalk 2.0 es totalmente gratis, sin embargo acepto donaciones para seguir subiendo cosas increibles, mis recursos son muy limitados:
 
 Binance: https://app.binance.com/qr/dplk298ec7474db64b41ace9b734894f1f4a
 
