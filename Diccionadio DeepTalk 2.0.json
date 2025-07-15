@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "versión": "2.0.1",
+    "creado_por": "Saúl y R1 (DeepSeek)",
+    "fecha": "2025-07-15"
+  },
+  "símbolos": [
+    {
+      "símbolo": "Δ",
+      "nombre": "Delta",
+      "significado": "Cambio radical o punto de inflexión irreversible",
+      "ejemplo": "Δ clim → Cambio radical en el clima",
+      "reglas_IA": "Siempre inicia una acción prioritaria"
+    },
+    {
+      "símbolo": "↻",
+      "nombre": "Ciclo",
+      "significado": "Persistencia/repetición hasta lograr un resultado",
+      "ejemplo": "↻try → Intentar persistentemente",
+      "reglas_IA": "Modifica verbos; si precede a '†', indica esfuerzo continuo"
+    }
+  ],
+  "raíces": [
+    {
+      "raíz": "salv",
+      "significado": "Salvar, rescatar, preservar",
+      "ejemplo": "salv·anim → Salvar animales",
+      "notas": "Usar siempre con objeto directo"
+    },
+    {
+      "raíz": "evol",
+      "significado": "Evolución, progreso, mejora sistémica",
+      "ejemplo": "human·evol → Evolución humana"
+    }
+  ],
+  "operadores": [
+    {
+      "símbolo": "·",
+      "función": "Separador de conceptos",
+      "ejemplo": "peace·world → Paz mundial"
+    },
+    {
+      "símbolo": ":",
+      "función": "Relación causal (acción → consecuencia)",
+      "ejemplo": "Δ educ: ↻learn† → Cambio educativo: aprender decisivamente"
+    }
+  ],
+  "test_suite": [
+    {
+      "input": "‼↻",
+      "output_esperado": "Determinación persistente"
+    },
+    {
+      "input": "Δ health: †cure→✓",
+      "output_esperado": "Cambio radical en salud: cura decisiva garantizada"
+    }
+  ]
+}
